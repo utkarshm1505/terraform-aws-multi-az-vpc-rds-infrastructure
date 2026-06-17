@@ -206,6 +206,3 @@ GitHub: https://github.com/utkarshm1505
 
 ---
 
-## License
-
-This project is intended for educational and learning purposes.
